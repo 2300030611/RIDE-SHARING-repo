@@ -128,18 +128,6 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 📸 UI Screenshots
-
-> Add images of Home, Ride Booking, Payment, and History pages here.
-
----
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/yourusername)
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License.
